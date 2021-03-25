@@ -8,9 +8,10 @@ public class stringPractise {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 
-		System.out.println("Enter your name: ");
-		String fullName = sc.nextLine();
-
+		//System.out.println("Enter your name: ");
+		//String fullName = sc.nextLine();
+		String fullName = "Arati";
+				
 		System.out.println("Entered text:" + fullName);
 
 		// Upper case
