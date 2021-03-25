@@ -10,7 +10,7 @@ public class stringPractise {
 
 		//System.out.println("Enter your name: ");
 		//String fullName = sc.nextLine();
-		String fullName = "Arati";
+		String fullName = "Avi";
 				
 		System.out.println("Entered text:" + fullName);
 
